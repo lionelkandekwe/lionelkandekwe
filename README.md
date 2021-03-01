@@ -1,6 +1,6 @@
    Hi there 👋
 
-    I'm Lionel, a Rwandan  Software developer, currently living in Kigali, Rwanda.
+    I'm Lionel, a Rwandan Software developer, currently living in Kigali, Rwanda.
 
 <br>
 
