@@ -26,7 +26,7 @@
 <br>
 
 <br>
-<a href="https://www.linkedin.com/in/lionel-kandekwe-734297195">  <img src="https://img.shields.io/badge/-LinkedIn-0098D6?style=flat-square&logo=linkedin&logoColor=white" alt="website"/></a>
+<a href="https://www.linkedin.com/in/lionelkandekwe">  <img src="https://img.shields.io/badge/-LinkedIn-0098D6?style=flat-square&logo=linkedin&logoColor=white" alt="website"/></a>
 <br>
 <a href="https://twitter.com/LionelKandekwe"><img src="https://img.shields.io/badge/-Twitter-007ACC?style=flat-square&logo=twitter&logoColor=white" alt="website"/></a> 
 <br>
