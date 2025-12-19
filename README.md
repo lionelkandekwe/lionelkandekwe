@@ -1,6 +1,6 @@
    Hi there 👋 I am Lionel
 
-   An experienced problem solver and Software Engineer with 4+ years of experience building scalable web apps and backend systems.
+   An experienced problem solver and Software Engineer with 5+ years of experience building scalable web apps and backend systems.
     I work with Java, Spring Boot, React and various databases. Love building impactful projects.
 
  Languages & Tools I have used<br /> 
